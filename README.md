@@ -18,7 +18,7 @@ Airlines analyzed:
 - Qatar Airways
 - Etihad Airways
 
-Time period: 2019–2025
+Time period: 2019-2025
 
 ## Tools Used
 - Microsoft Excel (data cleaning & normalization)
@@ -31,6 +31,8 @@ Time period: 2019–2025
 - India vs Gulf airline comparison
 
 ## Files
-- Airlines_Data.xlsx — cleaned dataset
-- Executive_Summary.pdf — business insights
-- PowerBI_Visuals.pdf — visual analysis
+- Airlines_Data.xlsx - cleaned dataset
+- Summary.pdf - business insights
+- PowerBI_Visuals.pdf - pdf of visual analysis
+- Airlines.pbix - PowerBI files of visualizations
+
